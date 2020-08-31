@@ -1,3 +1,7 @@
+"""
+This is a simple guessing game that was built using python.
+"""
+
 print("Hi, their, welcome to the Guessing game choose any number between 2 - 10, you will have three attempts.Good luck!")
 secret_number = 3
 guess_count = 0
