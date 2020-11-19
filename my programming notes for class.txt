@@ -1,0 +1,20 @@
+def add_strings(first, second):
+    value = first + " " + second
+    return value
+(first,second) term is function parameters
+add_strings is a function name
+def is a keyword in python
+functions are used to do something
+function has a body
+: is beginning of the body
+optionally, a function can return one or more 
+values
+user defined function(udf) is written by the programmer
+built-in function, which is part of the python software itself
+purple color words are reserved words in python
+__init__ is a constructor which accepts one or more properties
+module is a logical entity in a project, typically
+has one or more python files which perform a similar functionality
+.py is the extension for python files and
+for java the extension is .java
+for json files the extension is .json

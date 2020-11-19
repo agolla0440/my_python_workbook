@@ -1,0 +1,8 @@
+"""create a list with 10 items(strings) and print the values form the second item to the sixth item
+
+part 2:
+print the items in the reverse order
+
+part 3:
+slice the list into two lists
+print items from first list followed by second list
